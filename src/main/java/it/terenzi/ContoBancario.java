@@ -68,9 +68,12 @@ public class ContoBancario {
      * Restituisce una rappresentazione stringa del conto bancario. Include l'IBAN e il saldo. La rappresentazione stringa e' formattata per essere facile da leggere e comprendere. Ecco un esempio di come potrebbe apparire la rappresentazione stringa:
      * <br>
      * ```
+     * <br>
      * Conto Bancario:<br>
      * Saldo: 1000.0 EUR
+     * <br>
      * IBAN: IT12X0542811101000000123
+     * <br>
      * ```
      * <br>
      * 
